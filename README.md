@@ -14,6 +14,9 @@ fifth click on the file in winrar
 sixth click on BALDIBASICSAMONGUS.rar
 SCREENSHOT
 543957-exnxtfcy-v4
+ # SCREENSHOT
+ ![543957-exnxtfcy-v4](https://user-images.githubusercontent.com/87243176/125173480-87ce1380-e18d-11eb-8850-47e0546ab5ba.png)
+
 
  # DEAFULT HOTKEYS
 Right-D
